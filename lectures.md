@@ -9,7 +9,7 @@ All Lectures are Friday 2:00-3:20 pm in York Hall 3010 (YH 3010) ([Map](https://
 
 |  |  |  |
 | :---: | -------- | :--- |
-| 1 | Fri, 01/12/18 | [**Course introduction & review of genome fundamentals**](#1)  <br> Introduction to the course, Overview of major learning objectives and topic areas. Human genome review: What is DNA? What is a genome? What does the genome do? How do genomes differ between individuals? How is the genome decoded? Exploring what genetic errors are and what causes them.  | 
+| 1 | Fri, 01/12/18 | [**Course introduction & genome fundamentals**]({{ site.baseurl }}/class-material/Lecture01_BIMM194_W18.pdf)  <br> Introduction to the course, Overview of major learning objectives and topic areas. Human genome review: What is DNA? What is a genome? What does the genome do? How do genomes differ between individuals? How is the genome decoded? Exploring what genetic errors are and what causes them.  [Slides]({{ site.baseurl }}/class-material/Lecture01_BIMM194_W18.pdf), [Homework]({{ site.baseurl }}/class-material/BIMM194_W18_homework01.pdf) | 
 |   |   |   |
 | 2 | Fri, 01/19/18 | [**Genomics and cancer treatment**](#2) <br> What is cancer and how does it arise? Example genes implicated in cancer. What has been learned from genome sequencing of cancer? How can sequencing advance cancer treatment? Why do some anticancer drugs fail and how might genomic approaches help address the issue? Can genomic approaches help detect early cancer and monitor treatment effectiveness? What is immunotherapy? Can genomics be used to harness a patient’s own immune system to fight cancer? | 
 |   |   |   |
