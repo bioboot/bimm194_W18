@@ -1,0 +1,18 @@
+# Site settings
+title: "BIMM-194 W18"
+email: bjgrant@ucsd.edu
+description: > # this means to ignore newlines until "baseurl:"
+   Winter 2018 BIMM-194 course at the University of Califorina San Diego (UCSD) that 
+   introduces students to the growing role of genomics in healthcare, for patient 
+   diagnoses, treatment and disease prevention.  
+baseurl: "/bimm194_W18" # the subpath of your site, e.g. /blog/
+url: "http://bioboot.github.io/bimm194_W18" 
+twitter_username: bioboot
+github_username:  bioboot
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
