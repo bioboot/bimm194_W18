@@ -1,10 +1,16 @@
 ---
 layout: post
 title:  "DNA Snakes and Ladders"
-date:   2018-01-09 14:17:31 -0800
+date:   2018-01-11 14:17:31 -0800
 ---
 
-> Today, it is well-known that DNA is the molecule containing our genetic code. Whether on crime programmes, talk shows, or the daily news, DNA will be mentioned without need for an explanation. But what is DNA and how long have we known about it? And who really deserves the credit for our current knowledge?   
+Today, it is well-known that DNA is the molecule containing our genetic code. Whether on crime programmes, talk shows, or the daily news, DNA will be mentioned without need for an explanation. But what is DNA and how long have we known about it? And who really deserves the credit for our current knowledge?   
+
+<br>
+
+![DNA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eukaryote_DNA-en.svg/320px-Eukaryote_DNA-en.svg.png)
+
+<br>
 
 To begin to study Genomics, we must look at the history of how we came to learn about and understand DNA.
 

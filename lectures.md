@@ -4,7 +4,7 @@ title: "Lectures"
 permalink: /lectures/
 ---
 
-All Lectures are Friday 2:00-3:20 pm in York Hall 3010 (YH 3010) ([Map](https://goo.gl/maps/yPnFEypdSCM2)). Clicking on the class topics below will take you to corresponding lecture notes, homework assignments, and required reading material.   
+All Lectures are Friday 2:00-3:20 pm in York Hall 3010 (YH 3010) ([Map](https://goo.gl/maps/48MVhaMLboD2)). Clicking on the class topics below will take you to corresponding lecture notes, homework assignments, and required reading material.   
 
 
 |  |  |  |
@@ -17,7 +17,7 @@ All Lectures are Friday 2:00-3:20 pm in York Hall 3010 (YH 3010) ([Map](https://
 |   |   |   |
 | 4 | Fri, 02/02/18 | [**How to read a scientific paper & Introduction to student presentation assignments**](#4) <br> A guide for selecting, reading and understanding peer-reviewed primary research articles, How to obtain a basic understanding of a published science paper and decide whether or not it is a reputable study? How does the described work contribute to advancing the scientific knowledge base or our technical capabilities? Introduction to student presentation assignments.  | 
 |   |   |   |
-| 5 | Fri, 02/09/18 | [**Student group literature presentations**](#5) <br> Each week 2 student groups of 4 students each will present selected primary literature on recent genomic advances of relevance to biomedical science and health care.  Topics may be selected from the following [list](). | 
+| 5 | Fri, 02/09/18 | [**Student group literature presentations**](#5) <br> Each week 2 student groups of 4 students each will present selected primary literature on recent genomic advances of relevance to biomedical science and health care.  Topics may be selected from the following [list]({{ site.baseurl }}//readings/). | 
 |   |   |   |
 | 6 | Fri, 02/16/18 | [**Student group literature presentations**](#6) <br>  | 
 |   |   |   |

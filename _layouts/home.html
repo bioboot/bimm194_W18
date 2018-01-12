@@ -6,18 +6,35 @@ layout: default
   
   {{ content }}
 
+<br>
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
+        
+        <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
   </ul>
+
+<br>
+
+<h2>Topics for class presentation and discussion:</h2>
+<ul>
+  <li>How useful are genomic approaches to solving mystery genetic diseases?</li>
+<li>How can your genome directly help guide drug treatments for treating disease?</li>
+<li>Can genetic testing be used to predict sports performance and injuries?</li>
+<li>Can genetic testing and genome editing be useful for choosing healthier embryos and producing designer babies?</li>
+<li>How will increased understating of epigenetics impact health care?</li>
+<li>How does the microbiome affect health and can it be rationally altered to improve health?</li>
+<li>Can people be identified solely from their genome sequence and if so what are the implications?</li>
+<li>Will having my genome sequenced affect my family members?</li>
+<li>Who has the right to know your genetic test results?</li>
+</ul>
+
+<br> 
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
