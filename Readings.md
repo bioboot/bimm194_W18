@@ -15,5 +15,6 @@ Here I share with you some of the stories from the last year that I found partic
 
 <br> 
 
-## [Lecture 1 Reading homework assignment]({{ site.baseurl }}/class-material/BIMM194_W18_homework01.pdf)  
+## [Lecture 1:  Reading homework assignment]({{ site.baseurl }}/class-material/BIMM194_W18_homework01.pdf)  
 
+## [Lecture 4:  Guide to reading primary research articles]({{ site.baseurl }}/class-material/Guide_to_Reading_Papers.pdf)  
