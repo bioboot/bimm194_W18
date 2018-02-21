@@ -23,7 +23,7 @@ All Lectures are Friday 2:00-3:20 pm in York Hall 3010 (YH 3010) ([Map](https://
 | 6 | Fri, 02/16/18 | [**Student group literature presentations**](#6) <br>  **Group 4 Paper**: [De novo mutations revealed by whole-exome sequencing are strongly associated with autism]({{ site.baseurl }}/class-material/group4.pdf) <br>  **Group 4 Presentation**: [Google Slides link](https://docs.google.com/presentation/d/19HS2aIregJBa5XEeqj1f3nZSMmtBENzro4gpVQ5xwt4/edit#slide=id.g31e8ada7f6_1_46) <br> <br> **Group 1 Paper**: [‘Is this knowledge mine and nobody else's? I don't feel that.’ Patient views about consent, confidentiality and information-sharing in genetic medicine]({{ site.baseurl }}/class-material/group1.pdf) <br>  **Group 1 Presentation**: [Google Slides link](https://docs.google.com/presentation/d/1rCOtDOdBBJjtkhpsrkMt24YDlHbbMDfnEZp4cjM0ckU/edit#slide=id.p) | 
 |   |   |   |
 |   |   |   |
-| 7 | Fri, 02/23/18 | [**Student group literature presentations**](#7) <br>  **Group 5 & Group 6** | 
+| 7 | Fri, 02/23/18 | [**Student group literature presentations**](#7) <br>  <br>  **Group 5 Paper**: [ACTN3 genotype and modulation of skeletal muscle response to exercise in human subjects](http://www.physiology.org/doi/pdf/10.1152/japplphysiol.00557.2013) <br>  **Group 5 Presentation**: Google Slides link <br> <br> **Group 6 Paper**: [Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage]({{ site.baseurl }}/class-material/group6.pdf) <br>  **Group 6 Presentation**: Google Slides link | 
 |   |   |   |
 | 8 | Fri, 03/02/18 | [**Student group literature presentations**](#8) <br>  **Group 7 & Group 8** | 
 |   |   |   |
