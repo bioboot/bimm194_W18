@@ -25,7 +25,7 @@ All Lectures are Friday 2:00-3:20 pm in York Hall 3010 (YH 3010) ([Map](https://
 |   |   |   |
 | 7 | Fri, 02/23/18 | [**Student group literature presentations**](#7) <br>  <br>  **Group 5 Paper**: [ACTN3 genotype and modulation of skeletal muscle response to exercise in human subjects](http://www.physiology.org/doi/pdf/10.1152/japplphysiol.00557.2013) <br>  **Group 5 Presentation**: [Google Slides link](https://docs.google.com/presentation/d/1AdFs1kxF7PGJC_HWI7zKMnNt8j2sRlR7u2trvGmxsp8/edit#slide=id.p) <br> <br> **Group 6 Paper**: [Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage]({{ site.baseurl }}/class-material/group6.pdf) <br>  **Group 6 Presentation**: [Google Slides link](https://docs.google.com/presentation/d/1996276I01jdfNIRbBf-P_91AK09HGXhDMrf8s_EKl_8/edit?usp=sharing) | 
 |   |   |   |
-| 8 | Fri, 03/02/18 | [**Student group literature presentations**](#8) <br>  **Group 7 & Group 8** | 
+| 8 | Fri, 03/02/18 | [**Student group literature presentations**](#8) <br>  **Group 7 Paper**: To Be Updated <br>  **Group 7 Presentation**: Google Slides link <br> <br> **Group 8 Paper**: [Alterations of oral microbiota distinguish children with autism spectrum disorders from healthy controls]({{ site.baseurl }}/class-material/group8.pdf) <br>  **Group 8 Presentation**: Google Slides link  | 
 |   |   |   |
 | 9 | Fri, 03/09/18 | [**Student group literature presentations**](#9) <br>  **Group 9 & Group 10** | 
 |   |   |   |
